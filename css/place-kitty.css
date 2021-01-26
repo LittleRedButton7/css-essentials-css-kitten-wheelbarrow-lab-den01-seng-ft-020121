@@ -20,7 +20,7 @@
       <img src="images/kitty-3.png" alt="kitty 3">
     </div> */
 
-/*__write_selector_here__*/ {
+#basket > kitty-3 {
   position: absolute;
   z-index: 5;
   top: 291px;
